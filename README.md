@@ -1,2 +1,4 @@
 # aluguel de carros
- Criado em html e css no curso DevMedia
+ Esta pagina foi criada através do curso de html e css da DevMedia
+
+ Foi utilizado as tags semanticas, fieldeset, legend, option e optgroup
